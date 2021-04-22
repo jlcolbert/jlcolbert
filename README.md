@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">metadata librarian by day, opera queen by night</h3>
+<h1>Hi 👋, I'm Jay</h1>
+<h3>metadata librarian by day, opera queen by night</h3>
 
 <p align="left"> <a href="https://twitter.com/_wildeatheart" target="blank"><img src="https://img.shields.io/twitter/follow/_wildeatheart?logo=twitter&style=for-the-badge" alt="_wildeatheart" /></a> </p>
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_wildeatheart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="_wildeatheart" height="30" width="40" /></a>
+<a href="https://twitter.com/_WildeAtHeart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_WildeAtHeart" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlcolbert&show_icons=true&locale=en" alt="jlcolbert" /></p>
