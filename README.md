@@ -9,7 +9,7 @@
 
 - 🏳️‍🌈 I’m on the editorial board for [the Homosaurus](http://homosaurus.org/)
 
-- 🎙 Listen to my podcast [https://librarypunk.podbean.com/](https://librarypunk.podbean.com/)
+- 🎙 Listen to my podcast [https://librarypunk.gay](https://librarypunk.gay)
 
 - 💬 Ask me about **language & semiotics in library metadata; ethics in library metadata; queer metadata; Wikidata**
 
