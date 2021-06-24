@@ -30,5 +30,5 @@
 <a href="https://twitter.com/_WildeAtHeart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_WildeAtHeart" height="30" width="40" />@_WildeAtHeart</a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlcolbert&show_icons=true&locale=en" alt="jlcolbert" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jlcolbert&show_icons=true&locale=en" alt="jlcolbert" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlcolbert&" alt="jlcolbert" /></p>
