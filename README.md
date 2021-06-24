@@ -19,11 +19,15 @@
 
 - ⚡ Fun fact **I'm making a Digital Garden**
 
+**Now Playing** on Spotify
+
+<a href="https://now-playing-jlcolbert.vercel.app/now-playing?open">
+  <img src="https://now-playing-jlcolbert.vercel.app/now-playing" width="256" height="64" alt="Now Playing"/>
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_WildeAtHeart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_WildeAtHeart" height="30" width="40" />@_WildeAtHeart</a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlcolbert&show_icons=true&locale=en" alt="jlcolbert" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlcolbert&" alt="jlcolbert" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlcolbert&show_icons=true&locale=en" alt="jlcolbert" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlcolbert&" alt="jlcolbert" /></p>
