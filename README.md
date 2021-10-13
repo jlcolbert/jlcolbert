@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_wildeatheart" target="blank"><img src="https://img.shields.io/twitter/follow/_wildeatheart?logo=twitter&style=for-the-badge" alt="_wildeatheart" /></a> </p>
 
-- 🔭 I’m currently working on [a Primo VE development environment](https://github.com/jlcolbert/primo-explore-devenv-unh)
+- 🔭 I’m currently working on [a Dockerized Primo VE development environment](https://github.com/jlcolbert/primo-explore-devenv) and [view customizations](https://github.com/jlcolbert/primo-explore-views)
 
 - 🌱 I’m currently learning **Digital Curation via Library Juice Academy; Agile methodology**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://orcid.org/0000-0001-5733-5168](https://orcid.org/0000-0001-5733-5168)
 
-- ⚡ Fun fact **I'm making a Digital Garden**
+- ⚡ Fun fact **I'm making a [Digital Garden](https://wilde-at-heart.garden)**
 
 **Now Playing** on Spotify
 
