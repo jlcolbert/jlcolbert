@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Jay</h1>
-<h3>metadata librarian by day, opera queen by night</h3>
-
-<p align="left"> <a href="https://twitter.com/_wildeatheart" target="blank"><img src="https://img.shields.io/twitter/follow/_wildeatheart?logo=twitter&style=for-the-badge" alt="_wildeatheart" /></a> </p>
+<h3>metadata librarian</h3>
 
 - 🔭 I’m currently working on [a Dockerized Primo VE development environment](https://github.com/jlcolbert/primo-explore-devenv) and [view customizations](https://github.com/jlcolbert/primo-explore-views)
 
@@ -24,11 +22,6 @@
 <a href="https://now-playing-jlcolbert.vercel.app/now-playing?open">
   <img src="https://now-playing-jlcolbert.vercel.app/now-playing" width="256" height="64" alt="Now Playing"/>
 </a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_WildeAtHeart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_WildeAtHeart" height="30" width="40" />@_WildeAtHeart</a>
-</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jlcolbert&show_icons=true&locale=en" alt="jlcolbert" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlcolbert&" alt="jlcolbert" /></p>
