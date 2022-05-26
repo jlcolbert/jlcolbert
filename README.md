@@ -1,21 +1,10 @@
 <h1>Hi 👋, I'm Jay</h1>
-<h3>metadata librarian</h3>
 
-- 🔭 I’m currently working on [a Dockerized Primo VE development environment](https://github.com/jlcolbert/primo-explore-devenv) and [view customizations](https://github.com/jlcolbert/primo-explore-views)
+- 🏳️‍🌈 I’m on the editorial board for **[the Homosaurus](http://homosaurus.org/)**
 
-- 🌱 I’m currently learning **Digital Curation via Library Juice Academy; Agile methodology**
+- 🎙 Listen to my podcast **[🐇 librarypunk](https://www.librarypunk.gay/)**
 
-- 🏳️‍🌈 I’m on the editorial board for [the Homosaurus](http://homosaurus.org/)
-
-- 🎙 Listen to my podcast [librarypunk.gay](https://www.librarypunk.gay/)
-
-- 💬 Ask me about **language & semiotics in library metadata; ethics in library metadata; queer metadata; Wikidata**
-
-- 📫 How to reach me **jay.colbert@unh.edu**
-
-- 📄 Know about my experiences [https://orcid.org/0000-0001-5733-5168](https://orcid.org/0000-0001-5733-5168)
-
-- ⚡ Fun fact **I'm making a [Digital Garden](https://wilde-at-heart.garden)**
+- ⚡ Visit my **[🍀 Digital Garden](https://wilde-at-heart.garden)**
 
 **Now Playing** on Spotify
 
